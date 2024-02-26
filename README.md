@@ -1,4 +1,5 @@
-# practical_project1_multiplication_table
+# MultiplicationTable
+
 ### The main requirement is that creating Multiplication table
 
 Karra Jadval
