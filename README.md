@@ -2,7 +2,7 @@
 
 ### The main requirement is that creating Multiplication table
 
-Karra Jadval
+Karra Jadval     
 Rasmda ko'rsatilgandek karra jadvalni consolega chiqaring.
 
 
